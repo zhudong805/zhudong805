@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhudong805
-- 👀 I’m interested in programming.
+- 👀 I’m interested in programming and machine learning.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
